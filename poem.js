@@ -8,4 +8,3 @@ function nextLine(line) {
 
   document.getElementById("line").innerHTML=poem[line];
 }
-
